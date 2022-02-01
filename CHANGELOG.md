@@ -1,3 +1,11 @@
+# v23.0.0-snapshot
+
+Kubernetes API Version: v1.22.6
+
+### API Change
+- Rename default branch from master to main
+
+
 # v22.0.0-snapshot
 
 Kubernetes API Version: v1.22.5
